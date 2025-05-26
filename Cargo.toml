@@ -1,0 +1,13 @@
+[package]
+name = "spell_correction"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+itertools = { version = "0.14.0", features = ["use_std"] }
+rayon = "1.10.0"
+rphonetic = "3.0.3"
+strsim = "0.10.0"
+
+[dev-dependencies]
+tempfile = "3.8.0"

@@ -1,0 +1,149 @@
+toyota avanza
+toyota innova
+toyota kijang
+toyota agya
+toyota calya
+toyota fortuner
+toyota yaris
+toyota camry
+toyota corolla
+toyota vios
+toyota alphard
+toyota veloz
+toyota rush
+toyota raize
+toyota supra
+toyota land cruiser
+toyota hilux
+toyota sienta
+honda brio
+honda hrv
+honda brv
+honda crv
+honda crz
+honda crx
+honda mobilio
+honda jazz
+honda civic
+honda accord
+honda city
+honda freed
+honda odyssey
+honda insight
+daihatsu go panca
+daihatsu ayla
+daihatsu xenia
+daihatsu terios
+daihatsu sirion
+daihatsu sigra
+daihatsu luxio
+daihatsu gran max
+daihatsu rocky
+mitsubishi xpander
+mitsubishi pajero
+mitsubishi outlander
+mitsubishi eclipse cross
+mitsubishi mirage
+mitsubishi triton
+suzuki ertiga
+suzuki swift
+suzuki ignis
+suzuki baleno
+suzuki jimny
+suzuki xl7
+suzuki carry
+suzuki apv
+nissan grand livina
+nissan serena
+nissan x-trail
+nissan terra
+nissan juke
+nissan kicks
+nissan leaf
+mazda cx-5
+mazda cx-3
+mazda cx-9
+mazda 2
+mazda 3
+mazda 6
+mazda mx-5
+hyundai tucson
+hyundai santa fe
+hyundai palisade
+hyundai kona
+hyundai ioniq
+hyundai creta
+hyundai stargazer
+kia seltos
+kia sportage
+kia carnival
+kia sonet
+kia rio
+kia picanto
+wuling almaz
+wuling confero
+wuling cortez
+wuling air ev
+bmw 320i
+bmw 520i
+bmw x1
+bmw x3
+bmw x5
+bmw x7
+mercedes benz c-class
+mercedes benz e-class
+mercedes benz s-class
+mercedes benz gla
+mercedes benz glc
+mercedes benz gle
+audi a3
+audi a4
+audi a6
+audi q3
+audi q5
+audi q7
+volkswagen tiguan
+volkswagen golf
+volkswagen polo
+volkswagen teramont
+volkswagen touareg
+ford ranger
+ford everest
+ford ecosport
+ford mustang
+ford bronco
+chevrolet trailblazer
+chevrolet colorado
+chevrolet captiva
+chevrolet spark
+jeep compass
+jeep wrangler
+jeep cherokee
+jeep grand cherokee
+jeep gladiator
+lexus rx
+lexus nx
+lexus lx
+lexus es
+lexus is
+lexus ls
+subaru forester
+subaru xv
+subaru wrx
+subaru brz
+subaru outback
+peugeot 3008
+peugeot 5008
+peugeot 2008
+peugeot 408
+renault koleos
+renault triber
+renault kiger
+renault duster
+isuzu mu-x
+isuzu d-max
+dfsk glory
+dfsk super cab
+dfsk gelora
+chery tiggo
+chery omoda
